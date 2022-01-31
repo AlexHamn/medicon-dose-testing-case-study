@@ -15,14 +15,14 @@ You are working with the quality assurance team of Medicon and want to understan
 The previous analysis found that a dose is 10 times more likely to produce a satisfactory result than not.
 
 - Q1. The quality assurance team has collected 100 volunteers who were ready for the trial of this new batch and given one dose to each volunteer. Help the team to answer the following questions:
-  a. What is the probability distribution for the number of unsatisfactory doses?
-  b. What is the probability that exactly 3 doses will not be able to do a satisfactory job?
-  c. What is the probability that at most 3 doses will not do the satisfactory job out of 100 selected?
+  1. What is the probability distribution for the number of unsatisfactory doses?
+  2. What is the probability that exactly 3 doses will not be able to do a satisfactory job?
+  3. What is the probability that at most 3 doses will not do the satisfactory job out of 100 selected?
 
 - Q2. The New York city administration wants to buy 200 Doses for Health care workers who were COVID-Positive. They have contacted the company and requested 200 Doses. What is the probability that at least 30 doses will not do a satisfactory job out of 200 doses?
 
 - Q3. The quality assurance team wants to analyze the time of effect for doses. So, they have collected the 50 volunteers with the help of the city administration and given one dose to each volunteer. Data of these 50 doses are in the 'doses.csv' file. Based on this sample, answer the following questions:
-  a. What is the probability that the time of effect is less than 11.5 hours?
-  b. What is the 90th percentile of time of effect for the doses?c) For the effectiveness test of the vaccine, estimate the range in which the population mean (time of effect) will lie with a 95% confidence level.
+  1. What is the probability that the time of effect is less than 11.5 hours?
+  2. What is the 90th percentile of time of effect for the doses?c) For the effectiveness test of the vaccine, estimate the range in which the population mean (time of effect) will lie with a 95% confidence level.
 
 **Note:** Here, a satisfactory job means that the dose can completely cure COVID 19 and does not have any side effects.
